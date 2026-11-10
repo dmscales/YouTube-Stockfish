@@ -1,0 +1,5 @@
+numpy>=1.26
+# Optional: Claude multimodal reviewer (needs ANTHROPIC_API_KEY)
+anthropic>=2.8
+# Optional: word-level transcripts. Comment out to skip (the app still works).
+faster-whisper>=1.0
